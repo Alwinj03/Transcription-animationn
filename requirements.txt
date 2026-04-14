@@ -1,0 +1,3 @@
+pytest==7.4.3
+biopython==1.81
+pandas==2.1.1
